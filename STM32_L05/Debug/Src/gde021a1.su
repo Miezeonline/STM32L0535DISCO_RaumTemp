@@ -1,0 +1,10 @@
+../Src/gde021a1.c:209:10:gde021a1_GetEpdPixelWidth	0	static
+../Src/gde021a1.c:219:10:gde021a1_GetEpdPixelHeight	0	static
+../Src/gde021a1.c:127:6:gde021a1_Init	8	static
+../Src/gde021a1.c:169:6:gde021a1_WritePixel	8	static
+../Src/gde021a1.c:186:6:gde021a1_SetDisplayWindow	24	static
+../Src/gde021a1.c:256:6:gde021a1_RefreshDisplay	8	static
+../Src/gde021a1.c:274:6:gde021a1_CloseChargePump	8	static
+../Src/gde021a1.c:297:6:gde021a1_DrawImage	40	static
+../Src/gde021a1.c:230:6:gde021a1_WriteReg	8	static
+../Src/gde021a1.c:242:9:gde021a1_ReadReg	8	static

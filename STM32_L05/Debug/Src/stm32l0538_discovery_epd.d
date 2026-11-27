@@ -1,0 +1,76 @@
+Src/stm32l0538_discovery_epd.o: ../Src/stm32l0538_discovery_epd.c \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h \
+ ../Inc/stm32l0xx_hal_conf.h ../Inc/main.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h \
+ ../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h \
+ ../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l053xx.h \
+ ../Drivers/CMSIS/Include/core_cm0plus.h \
+ ../Drivers/CMSIS/Include/core_cmInstr.h \
+ ../Drivers/CMSIS/Include/cmsis_gcc.h \
+ ../Drivers/CMSIS/Include/core_cmFunc.h \
+ ../Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_spi.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_tsc.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pcd.h \
+ ../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pcd_ex.h \
+ ../Inc/stm32l0538_discovery_epd.h ../Inc/gde021a1.h ../Inc/epd.h \
+ ../Inc/fontsepd.h ../Inc/stm32l0538_discovery.h ../Src/font20epd.c \
+ ../Src/fontsepd.h ../Src/font16epd.c ../Src/font12epd.c \
+ ../Src/font8epd.c
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h:
+../Inc/stm32l0xx_hal_conf.h:
+../Inc/main.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h:
+../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h:
+../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l053xx.h:
+../Drivers/CMSIS/Include/core_cm0plus.h:
+../Drivers/CMSIS/Include/core_cmInstr.h:
+../Drivers/CMSIS/Include/cmsis_gcc.h:
+../Drivers/CMSIS/Include/core_cmFunc.h:
+../Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_spi.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_tsc.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pcd.h:
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pcd_ex.h:
+../Inc/stm32l0538_discovery_epd.h:
+../Inc/gde021a1.h:
+../Inc/epd.h:
+../Inc/fontsepd.h:
+../Inc/stm32l0538_discovery.h:
+../Src/font20epd.c:
+../Src/fontsepd.h:
+../Src/font16epd.c:
+../Src/font12epd.c:
+../Src/font8epd.c:
